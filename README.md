@@ -1,2 +1,2 @@
 # DataScienceInternship
-Please find the jupyter notebook of the model, video introducing jupyter workbook, Problem solving
+Please find the jupyter notebook of the model and Problem solving
